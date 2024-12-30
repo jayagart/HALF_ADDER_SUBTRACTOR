@@ -61,5 +61,5 @@ Thus design a half adder and half subtractor circuit and verified its truth tabl
 ![Screenshot 2024-11-11 082324](https://github.com/user-attachments/assets/0125dbb1-a40a-4416-9e4f-30199df189fa)
 
 # RESULT:
- Designed a half adder and half subtractor circuit and verified its truth table in Quartus using
- Verilog programming
+Thus we Designed a half adder and half subtractor circuit and verified its truth table in Quartus using
+ Verilog programming and verified successfully
