@@ -2,7 +2,7 @@
 
 ## NAME : Jayagar.T
 ## REG.NO : 24901219
- # EXPERIMENT-3: HALF ADDER AND SUBTRACTOR
+ # EXPERIMENT-3: IMPLEMENTATION OF HALF ADDER AND SUBTRACTOR
  Implementation-of-Half-Adder-and-Half Subtractor-circuit
 # AIM:
  To design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog
