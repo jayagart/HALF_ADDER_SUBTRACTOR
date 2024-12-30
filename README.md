@@ -1,7 +1,7 @@
 
 
-# NAME : Jayagar.T
-# REG.NO : 24901219
+## NAME : Jayagar.T
+## REG.NO : 24901219
  # EXPERIMENT-3: HALF ADDER AND SUBTRACTOR
  Implementation-of-Half-Adder-and-Half Subtractor-circuit
 # AIM:
